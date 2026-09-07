@@ -1,4 +1,4 @@
-# 🐟Deep-Learning-Based-Fish-Disease-Detection-Using-CNN-and-Transfer-Learning
+# 🐟AI Powered Fish Disease Diagnosis System
 
 ## 📌 Project Overview
 Fish diseases are a major challenge in aquaculture, leading to reduced fish health, lower productivity, and economic losses. Early and accurate disease detection is essential for improving fish health management and preventing disease outbreaks.
