@@ -1,0 +1,43 @@
+Disease: Ich / White Spot Disease
+
+Symptoms:
+Small white spots on skin or fins, excess mucus, flashing/rubbing, lethargy, clamped fins, reduced appetite, and abnormal swimming.
+
+Description:
+A parasitic disease caused by Ichthyophthirius multifiliis, mainly affecting freshwater fish including salmonids. The parasite can infect the skin, fins, and gills.
+
+Management:
+Confirm infection by microscopic examination; use an appropriate approved antiparasitic treatment and improve water quality and system hygiene.
+
+Prevention:
+Quarantine new fish, avoid introducing infected fish or contaminated equipment, maintain good water quality, and reduce stress and overcrowding.
+
+
+Disease: Furunculosis
+
+Symptoms:
+Skin redness, hemorrhages, ulcers or deep lesions, fin damage, lethargy, reduced appetite, abnormal swimming, and increased mortality.
+
+Description:
+A bacterial disease of salmonids caused by Aeromonas salmonicida. It can produce hemorrhages, tissue necrosis, skin ulcers, and systemic infection.
+
+Management:
+Confirm the bacterial cause through appropriate diagnostic testing; isolate affected fish and use antimicrobial treatment only under appropriate veterinary/aquaculture guidance.
+
+Prevention:
+Use healthy stock, quarantine new fish, maintain sanitation and good water quality, reduce stress and overcrowding, and use vaccination where appropriate.
+
+
+Disease: Saprolegniasis
+
+Symptoms:
+White or gray cotton-like growth on the skin or damaged tissue, skin lesions, lethargy, reduced appetite, and abnormal swimming.
+
+Description:
+A water-mold infection caused by organisms such as Saprolegnia. It commonly develops as an opportunistic infection following skin damage, stress, or poor environmental conditions.
+
+Management:
+Correct poor water-quality conditions, minimize further skin damage, remove severely affected material when appropriate, and use an approved treatment under professional guidance.
+
+Prevention:
+Maintain good water quality and sanitation, reduce handling injuries and stress, avoid overcrowding, and quarantine affected fish.
