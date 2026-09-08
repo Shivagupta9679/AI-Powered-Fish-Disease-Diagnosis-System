@@ -1,9 +1,11 @@
 import streamlit as st
 from PIL import Image
-
+from huggingface_hub import hf_hub_download
 from predict import predict_image
+from tensorflow.keras.models import load_model
 from rag import retrieve_information
 from llm import generate_diagnosis
+
 
 
 # -----------------------------
@@ -15,7 +17,17 @@ st.set_page_config(
     layout="wide"
 )
 
+@st.cache_resource
+def load_my_model():
 
+    model_path = hf_hub_download(
+        repo_id="SHIVA9679/VGG16",
+        filename="VGG16_fish_model_fixed.h5"
+    )
+
+    model = load_model(model_path, compile=False)
+
+    return model
 # -----------------------------
 # Custom CSS
 # -----------------------------
