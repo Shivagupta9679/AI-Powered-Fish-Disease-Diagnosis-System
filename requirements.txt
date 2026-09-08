@@ -3,8 +3,10 @@ keras
 numpy
 pandas
 matplotlib
-scikit-learn
 opencv-python
 seaborn
 notebook
 ipykernel
+streamlit
+pillow
+huggingface_hub
