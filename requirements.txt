@@ -1,12 +1,9 @@
 tensorflow
-keras
 numpy
 pandas
 matplotlib
 opencv-python
 seaborn
-notebook
-ipykernel
 streamlit
 pillow
 huggingface_hub
