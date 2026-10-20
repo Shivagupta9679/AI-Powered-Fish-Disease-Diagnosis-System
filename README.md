@@ -3,22 +3,26 @@
 ## 📌 Project Overview
 Fish diseases are a major challenge in aquaculture, leading to reduced fish health, lower productivity, and economic losses. Early and accurate disease detection is essential for improving fish health management and preventing disease outbreaks.
 
-This project presents a deep learning-based fish disease detection system that classifies fish images as Healthy or Infected using computer vision techniques. The project implements and compares a Custom CNN, VGG16, and DenseNet with transfer learning to identify the most effective model for binary image classification. Data augmentation and early stopping are applied to improve model generalization and reduce overfitting.
+This project combines deep learning-based image classification with an LLM-powered RAG pipeline to support fish disease detection and provide relevant informational guidance.The system uses a fine-tuned VGG16 model for image classification and FAISS with the OpenAI API to retrieve relevant information and generate contextual responses.
 
 ## 🎯Objectives
 - Develop an automated fish disease detection system using deep learning.
 - Compare the performance of CNN and transfer learning models.
 - Improve classification accuracy using data augmentation.
 - Evaluate model performance using multiple classification metrics.
+- Integrate RAG and an LLM to provide relevant disease-related information.
+- Build a Streamlit interface for local application use.
 
 ## 🛠️Technologies Used
 - Python
 - TensorFlow / Keras
 - NumPy
 - Pandas
+- Pandas
 - Matplotlib
 - Scikit-learn
 - OpenCV
+- RAG
 
 ## 🧠Deep Learning Models
 The following models were implemented and evaluated:
@@ -43,6 +47,8 @@ Techniques used:
 - Applied **Early Stopping** and **Class Weights** to improve model performance.
 - Evaluated the models using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix.
 - Compared model performance and selected the best-performing model for fish disease detection.
+- Used FAISS for retrieving relevant information and the OpenAI API for generating contextual responses.
+- Built a Streamlit interface and ran the application locally through VS Code.
 
 ## 📂Dataset
 The dataset used in this study is publicly available.
@@ -53,14 +59,16 @@ The dataset used in this study is publicly available.
 ## 📁Project Structure
 ```
 Fish-Disease-Detection/
+AI-Powered-Fish-Disease-Diagnosis-System/
 │
 ├── dataset/
 ├── notebooks/
 │   └── Fish_Disease_Detection.ipynb
 ├── models/
 ├── images/
-├── README.md
-└── requirements.txt
+├── app.py
+├── requirements.txt
+└── Readme.md
 ```
 
 ## 📈Results
