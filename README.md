@@ -68,13 +68,6 @@ Fish-Disease-Detection/
 - VGG16 (fine-tuned): ~97% validation accuracy (best model)
 - Custom DenseNet-style: 86.8% test accuracy
 
-## 🔮 Future Improvements
-
-- Multi-class fish disease classification
-- Explainable AI using Grad-CAM
-- Streamlit web application
-- Cloud deployment
-
 ## 👨‍💻Author
 
 Shiva Gupta
